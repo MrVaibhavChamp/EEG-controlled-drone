@@ -2,16 +2,16 @@
 ------------------------------------
 
 ## Parts list
-1. Drone + controller 
-2. Soldering Station + accessories (braided copper wire, desolder pump, helping hand, solid core wires, tin) 
+1. Drone + Controller 
+2. Soldering Station + accessories (braided copper wire, desolder, solid core wires, tin) 
 3. Multimeter 
-4. MindWave sensor 
-5. Arduino MKR1000 
+4. Neurosky MindWave sensor 
+5. Arduino MKR1010 
 6. Breadboard 
-7. 4 x 100uF capacitors 
-8. 4 x 220Ω Resistors 
-9. 12 x Jumper wires 
-10. 6 Crocodile clip wires (optional)
+7. 100uF capacitors 
+8. 220Ω Resistors 
+9. Jumper wires 
+10. 6 Crocodile clip wires
 
 
 ## Low pass filter
@@ -19,7 +19,7 @@
 
 
 
-## Circuit to wire Arduino MK1000 to the hacked controller
+## Circuit to wire Arduino MKR1010 to controller
 ![2](https://github.com/MrVaibhavChamp/EEG-controlled-drone/assets/95209052/480559b7-c80f-40c7-935f-b87e7f14fb0c)
 
 
