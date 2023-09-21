@@ -15,11 +15,13 @@
 
 
 ## Low pass filter
-![image](https://github.com/ArghaKamalSamanta/EEG-controlled-drone/assets/97786651/e7c99357-add6-4e21-8512-626291ab59d7)
+![1](https://github.com/MrVaibhavChamp/EEG-controlled-drone/assets/95209052/f39892f2-15ce-4f2b-a652-00cc1f7339c3)
+
 
 
 ## Circuit to wire Arduino MK1000 to the hacked controller
-![image](https://github.com/ArghaKamalSamanta/EEG-controlled-drone/assets/97786651/15c8efb2-0dcb-4119-a5c9-c0fee8191e56)
+![2](https://github.com/MrVaibhavChamp/EEG-controlled-drone/assets/95209052/480559b7-c80f-40c7-935f-b87e7f14fb0c)
+
 
 
 
